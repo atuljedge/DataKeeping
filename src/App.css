@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+text-align: center;
+}
+
+h1{
+  margin: 0;
+}
+
+.header{
+   background-color: rgb(6, 59, 124);
+   width: 100%;
+   padding: 14px;
+   color: white;
+}
+
+.form{
+ margin-top: 16px;
+
+}
+
+.data{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+  margin-top: 14px;
+  width: 100%;
+
+}
+
+.data_val{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 40%;
+  padding:0px 9px 0px 9px ;
+  
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
